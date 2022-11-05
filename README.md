@@ -1,6 +1,7 @@
 # Roblox Sound Changer
 
-Windows program which allows for users to easily change their roblox death sound to any .ogg file of their choice.
+(I will fix this monstrosity one day, I wrote this incredibly sleep deprived, I'm so sorry)
+- Windows program which allows for users to easily change their roblox death sound to any .ogg file of their choice.
 
 ## Installation
 
